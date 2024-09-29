@@ -1,0 +1,24 @@
+addStudent:1 >> c1
+addStudent:2 >> c1
+addStudent:3 >> c1
+addStudent:4 >> c1
+addStudent:5 >> c1
+getCounter:1 >> [1, 2, 3, 4, 5]
+getCounter:2 >> [None, None, None, None, None]
+isOpen:1 >> True
+isOpen:2 >> False
+addStudent:6 >> c2
+getCounter:1 >> [1, 2, 3, 4, 5]
+getCounter:2 >> [6, None, None, None, None]
+isOpen:1 >> True
+isOpen:2 >> True
+giveAdmissionTicket: >> 2
+giveAdmissionTicket: >> 1
+giveAdmissionTicket: >> 1
+getCounter:1 >> [None, None, None, 4, 5]
+getCounter:2 >> [None, None, None, None, None]
+giveAdmissionTicket: >> 1
+giveAdmissionTicket: >> 1
+giveAdmissionTicket: >> 0
+getCounter:1 >> [None, None, None, None, None]
+getCounter:2 >> [None, None, None, None, None]
