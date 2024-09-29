@@ -1,0 +1,13 @@
+Empty Line found in the input file.
+Invalid Input.
+Successfully inserted 6 records into the system.
+Ramdev : Yet to Deliver
+Balaji Medicals : Out for Delivery
+Balaji : Yet to Deliver
+Angel : Yet to Deliver
+Empty Line found in the prompt file.
+Apollo
+Apollo
+Angel Medicals
+Angel Medicals
+Balaji
